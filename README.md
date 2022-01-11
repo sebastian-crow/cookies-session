@@ -6,7 +6,6 @@
 
 ## Proyect Setup
 ```
-
 npm install --save
 ```
 
